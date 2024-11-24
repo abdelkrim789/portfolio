@@ -20,15 +20,15 @@ const projects = [
     description: "Dynamic CSS gradient generation tool with real-time preview and code export.",
     tech: ["JavaScript", "HTML", "CSS"],
     image: "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?auto=format&fit=crop&q=80",
-    links: { demo: "#", github: "#" }
+    links: { demo: "#", github: "https://github.com/abdelkrimghk/GradiantGenerator" }
   },
   {
     id: 3,
-    title: "Timer by JS",
+    title: "Timer",
     description: "Interactive timer application with sleek UI and multiple timing modes.",
     tech: ["JavaScript", "HTML", "CSS"],
     image: "https://images.unsplash.com/photo-1502570149819-b2260483d302?auto=format&fit=crop&q=80",
-    links: { demo: "#", github: "#" }
+    links: { demo: "#", github: "https://github.com/abdelkrimghk/timer" }
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const projects = [
     description: "Space-themed creative project showcasing interactive animations and 3D elements.",
     tech: ["JavaScript", "React"],
     image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80",
-    links: { demo: "#", github: "#" }
+    links: { demo: "#", github: "https://github.com/abdelkrimghk/Space-K" }
   },
   {
     id: 5,

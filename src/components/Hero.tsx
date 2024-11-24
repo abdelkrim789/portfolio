@@ -25,7 +25,7 @@ const Hero = () => {
             transition={{ duration: 0.8 }}
             className="text-6xl md:text-8xl font-bold text-white mb-6"
           >
-            Backend Expert
+            WELCOME TO MY WORLD
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
